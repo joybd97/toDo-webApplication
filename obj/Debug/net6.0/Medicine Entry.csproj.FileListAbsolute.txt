@@ -1,0 +1,544 @@
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\appsettings.Development.json
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\appsettings.json
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Medicine Entry.staticwebassets.runtime.json
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Medicine Entry.exe
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Medicine Entry.deps.json
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Medicine Entry.runtimeconfig.json
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Medicine Entry.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Medicine Entry.pdb
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Humanizer.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\Medicine Entry.csproj.AssemblyReference.cache
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\Medicine Entry.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\Medicine Entry.AssemblyInfoInputs.cache
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\Medicine Entry.AssemblyInfo.cs
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\Medicine Entry.csproj.CoreCompileInputs.cache
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\Medicine Entry.MvcApplicationPartsAssemblyInfo.cs
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\Medicine Entry.MvcApplicationPartsAssemblyInfo.cache
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\Medicine Entry.RazorAssemblyInfo.cache
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\Medicine Entry.RazorAssemblyInfo.cs
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\staticwebassets.build.json
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\staticwebassets.development.json
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\scopedcss\bundle\Medicine Entry.styles.css
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\scopedcss\projectbundle\Medicine Entry.bundle.scp.css
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\Medicine Entry.csproj.CopyComplete
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\Medicine Entry.dll
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\refint\Medicine Entry.dll
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\Medicine Entry.pdb
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\Medicine Entry.genruntimeconfig.cache
+C:\c#\eGen\Medicine Entry\obj\Debug\net6.0\ref\Medicine Entry.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\MessagePack.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\NuGet.Common.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\c#\eGen\Medicine Entry\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\appsettings.Development.json
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\appsettings.json
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Medicine Entry.staticwebassets.runtime.json
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Medicine Entry.exe
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Medicine Entry.deps.json
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Medicine Entry.runtimeconfig.json
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Medicine Entry.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Medicine Entry.pdb
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Humanizer.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\MessagePack.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\NuGet.Common.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\Medicine Entry.csproj.AssemblyReference.cache
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\Medicine Entry.GeneratedMSBuildEditorConfig.editorconfig
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\Medicine Entry.AssemblyInfoInputs.cache
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\Medicine Entry.AssemblyInfo.cs
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\Medicine Entry.csproj.CoreCompileInputs.cache
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\Medicine Entry.MvcApplicationPartsAssemblyInfo.cs
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\Medicine Entry.MvcApplicationPartsAssemblyInfo.cache
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\Medicine Entry.RazorAssemblyInfo.cache
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\Medicine Entry.RazorAssemblyInfo.cs
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\staticwebassets.build.json
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\staticwebassets.development.json
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\scopedcss\bundle\Medicine Entry.styles.css
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\scopedcss\projectbundle\Medicine Entry.bundle.scp.css
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\Medicine Entry.csproj.CopyComplete
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\Medicine Entry.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\refint\Medicine Entry.dll
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\Medicine Entry.pdb
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\Medicine Entry.genruntimeconfig.cache
+D:\job\eGeneration\assignment\Md. Mania Ahmed Joy\Medicine Entry (Task 1)\Medicine Entry\obj\Debug\net6.0\ref\Medicine Entry.dll

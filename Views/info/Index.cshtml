@@ -1,0 +1,39 @@
+﻿@model IEnumerable<info>
+@{
+    ViewData["Title"] = "Info";
+}
+
+<h3 align="center">Medicine Entry</h3>
+
+<div>
+    <a asp-controller="info" asp-action="Create" class="btn btn-primary">Add Medi Info</a> <br /> <br />
+</div>
+
+
+<table class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Date and Time</th>
+            <th>Note</th>
+            <th> </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var obj in Model)
+        {
+            <tr>
+                <td> @obj.medicineName</td>
+                <td>@obj.Date</td>
+                <td>@obj.Note</td>
+                <td>
+                    <div class="w-75 btn-group" role="group">
+                        <a asp-controller="info" asp-action="Edit" asp-route-id="@obj.Id">Edit</a> &nbsp|&nbsp
+                        <a asp-controller="info" asp-action="Delete" asp-route-id="@obj.Id">Remove</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewData["Title"] = "Add Medi";
+}
+
+@model info 
+
+<form method="post">
+
+    <div class="border p-3 mt-4">
+        <div>
+            <h2>Medicine Entry</h2>
+            <hr />
+        </div>
+
+        <div>
+            <label asp-for="medicineName">Medicine Name</label>
+            <input asp-for="medicineName" class="form-control" />
+            <span asp-validation-for="medicineName" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="Date">Date and time</label>
+            <input asp-for="Date" class="form-control" />
+            <span asp-validation-for="Date" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="Note">Note</label>
+            <input asp-for="Note" class="form-control" />
+            <span asp-validation-for="Note" class="text-danger"></span>
+
+        </div>
+        <br /> 
+
+        <button type="submit" class="btn btn-primary">ADD to Remember</button>
+        <a asp-controller="info" asp-action="Index" class="btn btn-secondary">Back to List</a>
+
+    </div>
+
+</form>
+
+@section Scripts{
+@{
+    <partial name="_ValidationScriptsPartial" />
+}
+}
+
